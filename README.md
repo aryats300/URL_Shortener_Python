@@ -31,8 +31,7 @@ This repository contains a Django-based User Authentication API with token-based
 
 Sure, here's a sample README.md content for your project's Git repository. Remember to replace placeholders with actual information where necessary:
 
-markdown
-Copy code
+
 # Django User Authentication API
 
 This repository contains a Django-based User Authentication API with token-based authentication using Django Rest Framework and Knox.
@@ -59,7 +58,7 @@ This repository contains a Django-based User Authentication API with token-based
 
    ```sh
    git clone https://github.com/aryats300/URL_Shortener_Python.git
-   cd your-repo
+   cd URL_Shortener_Python
 
    
 Create and activate a virtual environment (optional but recommended):
