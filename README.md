@@ -87,10 +87,15 @@ Log out all user sessions by making a POST request to /logoutall/ endpoint.
 
 API Endpoints
 POST /register/: Register a new user.
+
 POST /login/: Log in a user and receive an authentication token.
+
 GET /user/: Fetch user details using an authentication token.
+
 POST /logout/: Log out the current user.
+
 POST /logoutall/: Log out all user sessions.
+
 Contributing
 Contributions are welcome! Here are a few ways you can contribute:
 
