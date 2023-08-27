@@ -10,7 +10,7 @@ This repository contains a Django-based User Authentication API with token-based
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
