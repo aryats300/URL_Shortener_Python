@@ -24,8 +24,8 @@ This repository contains a Django-based User Authentication API with token-based
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/aryats300/URL_Shortener_Python.git
+   cd URL_Shortener_Python
 
 
 
